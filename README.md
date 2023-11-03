@@ -1,5 +1,9 @@
 # SHARPpy
 
+
+## This is a pared down fork to only collect profiles given raw input data.
+
+
 ###### Sounding/Hodograph Analysis and Research Program in Python
 
 [![Test Status](https://github.com/NUCAPS/SHARPpy/actions/workflows/pytest.yml/badge.svg?branch=master)](https://github.com/NUCAPS/SHARPpy/actions/workflows/pytest.yml)
