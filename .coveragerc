@@ -1,29 +1,2 @@
 [run]
 source = sharppy
-         runsharp
-         datasources
-
-[report]
-exclude_lines = 
-    if __name__ == .__main__.:
-    logging.debug
-    def swapInset
-    def keyPressEvent
-    def focusPicker
-    def wheelEvent
-    def mouseReleaseEvent
-    def updateReadout
-    def setReadoutCursor
-    def setNoCursor
-    def resizeEvent
-    def mouseMoveEvent
-    def mouseDoubleClickEvent
-    def mousePressEvent
-    def pix_to
-    def modifySfc
-    def getReadoutVal
-    def showCursorMenu
-    class SfcModifyDialog
-    class PWDatabase
-    def get_profile
-    def calc_inputs
